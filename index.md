@@ -4,19 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Postdoctoral fellow in the Biostatistics Branch of the Division of Cancer Epidemiology and Genetics (DCEG) at the National Cancer Institute (NCI), National Institutes of Health (NIH). I am broadly interested in various statistical topics and programming.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- Quantile Regression, High-dimensional Data Analysis, Non/Semiparametric Statistics, Machine Learning, Health Disparity Analysis
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Aug. 2024]** I won the **Early Career Award** from ASA Statistics in Epidemiology Section Student Paper Competition in JSM 2024.
 
 {% include_relative _includes/publications.md %}
 
