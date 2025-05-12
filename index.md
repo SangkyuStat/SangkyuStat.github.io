@@ -8,7 +8,11 @@ I am a Postdoctoral fellow in the Biostatistics Branch of the Division of Cancer
 
 ## Research Interests
 
-- Quantile Regression, High-dimensional Data Analysis, Non/Semiparametric Statistics, Machine Learning, Health Disparity Analysis
+- Quantile Regression
+- High-dimensional Data Analysis
+- Non/Semiparametric Statistics
+- Machine Learning
+- Health Disparity Analysis
 
 ## News
 
