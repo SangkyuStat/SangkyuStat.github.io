@@ -90,18 +90,6 @@
         </a>
         {% endif %}
         </div>
-        <!-- ▼▼▼  Inserted navbar code  ▼▼▼ -->
-      <nav>
-        <ul class="navbar">
-          {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
-          {%- for p in sorted_pages -%}
-            {%- if p.nav or p.nav_order -%}
-              <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
-            {%- endif -%}
-          {%- endfor -%}
-        </ul>
-      </nav>
-      <!-- ▲▲▲  End navbar code  ▲▲▲ -->
         <br>
 
       </header>
