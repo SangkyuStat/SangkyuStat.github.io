@@ -53,6 +53,8 @@
 </ol>
 </div>
 
+<div class="publications">
+<ol class="bibliography">
 
 #### Preprints
 
