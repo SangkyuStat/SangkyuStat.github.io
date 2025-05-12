@@ -6,7 +6,7 @@ layout: homepage
 
 ### About Me
 
-I am a Postdoctoral fellow in the Biostatistics Branch of the Division of Cancer Epidemiology and Genetics (DCEG) at the National Cancer Institute (NCI), National Institutes of Health (NIH). I am broadly interested in various statistical topics and programming.
+I am a Postdoctoral fellow in the Biostatistics Branch of the Division of Cancer Epidemiology and Genetics (DCEG) at the National Cancer Institute (NCI), National Institutes of Health (NIH). I am broadly interested in various statistical topics, from statistical theories to applications and programming.
 
 ### Research Interests
 
