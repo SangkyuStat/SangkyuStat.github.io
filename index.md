@@ -12,4 +12,5 @@ I am a Postdoctoral fellow in the Biostatistics Branch of the Division of Cancer
 
 ## News
 
-- **[Aug. 2024]** I won the **Early Career Award** from ASA Statistics in Epidemiology Section Student Paper Competition in JSM 2024.
+- **[Mar. 2025]** Our paper, *A comprehensive estimator for the Fréchet distribution: asymptotical efficiency and practical applications to health studies*, got accepted by JKSS.
+- **[Aug. 2024]** I won the **Early Career Award** from the ASA Statistics in Epidemiology Section Junior Researcher/Student Paper Competition in JSM 2024.
