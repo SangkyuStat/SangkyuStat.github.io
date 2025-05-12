@@ -14,6 +14,4 @@ I am a Postdoctoral fellow in the Biostatistics Branch of the Division of Cancer
 
 - **[Aug. 2024]** I won the **Early Career Award** from ASA Statistics in Epidemiology Section Student Paper Competition in JSM 2024.
 
-{% include_relative _includes/publications.md %}
-
 {% include_relative _includes/services.md %}
