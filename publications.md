@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Publications
 permalink: /publications/
 nav: true          # tells the template to create a tab
