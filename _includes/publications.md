@@ -1,4 +1,13 @@
-<h3 style="margin: 60px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=Qi2PSmEAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/12/10033-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h3>
+<br>
+
+### Publications
+
+<p style="margin:4px 0 18px;font-size:15px;">
+<a href="https://scholar.google.com/citations?user=E4S3q1gAAAAJ&hl=en"
+  target="_blank" rel="noopener">Google&nbsp;Scholar</a>
+</p>
+
+* denotes equal contribution
 
 #### Preprints
 
