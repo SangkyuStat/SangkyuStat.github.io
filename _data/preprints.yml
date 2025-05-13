@@ -1,21 +1,20 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    notes: Early Accept
+  - title: High-dimensional Partial Linear Model with Trend filtering
+    authors: <strong>Lee, S. K.</strong>, Loftfield, E., Hong, H. G., and Weng, H.
+    conference: arXiv, 2024+
+    pdf: https://arxiv.org/pdf/2410.20319.pdf
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Causal Decomposition Framework for Quantifying Intervenable Cancer Health Disparities: A Mediation Approach Using Random Survival Forests
+    authors: <strong>Lee, S. K.*</strong>, Xia, F.*, Kim, S., Blum, K., Hong, H. G., Canchola, A. J., Shariff-Marco, S., Gomez, S. L. and Kim, M.-O.
+    conference: submitted, 2024+
+
+  - title: Decomposition of Longitudinal Disparities: an Application to the Fetal Growth-Singletons Study
+    authors: <strong>Lee, S. K.</strong>, Kim, S., Kim, M.-O., Grantz, K. L., and Hong, H. G. 
+    conference: arXiv, 2024+
+    pdf: https://arxiv.org/pdf/2404.11675.pdf
+    note: Winner of the ASA Statistics in Epidemiology Section Paper Competition in JSM 2024
+
+  - title: False Discovery rate control for regional quantile regression for ultra-high dimensional data
+    authors: <strong>Lee, S. K.</strong>, Zhang, T., Hong, H. G., and Weng, H.
+    conference: submitted, 2025+
