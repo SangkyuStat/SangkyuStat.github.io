@@ -15,6 +15,7 @@ I am a Postdoctoral fellow in the Biostatistics Branch of the Division of Cancer
 - Non/Semiparametric Statistics
 - Machine Learning
 - Health Disparity Analysis
+- Statistical Softwares
 
 ### News
 
