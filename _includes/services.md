@@ -13,8 +13,8 @@
 
 ### Departmental Services
 
-#### Michigan State University
+#### Department of Statistics and Probability, Michigan State University
 
-- Graduate Student Representative (Department of Statistics and Probability)
-- Colloquium Committee (Department of Statistics and Probability)
-- Major Curriculum Committee (Department of Statistics and Probability)
+- Graduate Student Representative
+- Colloquium Committee
+- Major Curriculum Committee
