@@ -1,21 +1,34 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    notes: Early Accept
+  - title: "A Comprehensive Estimator for the Fréchet Distribution: Asymptotical Efficiency, and Practical Applications"
+    authors: <strong>Lee, S. K.</strong>, Hong, H. G., and Kim, H.-M.
+    conference: Journal of Korean Statistical Society, 2025
+    
+  - title: "MLEce: Statistical inference for asymptotically efficient closed-form estimators in R"
+    authors: Zhao, J., Kim, Y.-K., Jang, Y.-H., Chang, J. H., <strong>Lee, S. K.</strong>, and Kim, H.-M.
+    conference: SoftwareX, 2024
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "An Asymptotically Efficient Closed-form Estimator for the Dirichlet Distribution"
+    authors: <strong>Lee, S. K.</strong>, Chang, J. H., and Kim, H.-M. 
+    conference: Stat, 2023
+
+  - title: "Quantile Forward Regression for High-dimensional Survival Data"
+    authors: Lee, E. R., Park, S., <strong>Lee, S. K.</strong>, and Hong, H. G.
+    conference: Lifetime Data Analysis, 2023
+
+  - title: "Two Tests Using More Assumptions but Lower Power"
+    authors: <strong>Lee, S. K.</strong>, and Kim, H.-M. 
+    conference: Communications for Statistical Applications and Methods, 2023
+
+  - title: "Further Sharpening of Jensen's Inequality"
+    authors: <strong>Lee, S. K.</strong>, Chang, J. H., and Kim, H.-M. 
+    conference: Statistics, 2021
+    notes: Honorable Mention from Student Paper Competition for Korean Statistical Society Academic Conference 2019
+
+  - title: "EMSS: New EM-type Algorithms for the Heckman Selection Model in R"
+    authors: Yang, K., <strong>Lee, S. K.</strong>, Zhao, J., and Kim, H.-M.
+    conference: R Journal, 2021
+
+  - title: "Some Counterexamples of a Skew-normal Distribution"
+    authors: Zhao, J., <strong>Lee, S. K.</strong>, and Kim, H.-M.
+    conference: Communications for Statistical Applications and Methods, 2019
