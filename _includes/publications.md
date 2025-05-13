@@ -59,7 +59,7 @@
 </ol>
 </div>
 
-### Published Papers
+### Published Papers (Statistical Methods, Theories, and Software)
 
 <div class="publications">
 <ol class="bibliography">
