@@ -7,7 +7,7 @@
   target="_blank" rel="noopener">Google&nbsp;Scholar</a>]
 </p>
 
-</em>* denotes equal contribution
+* denotes equal contribution
 
 #### Preprints
 
