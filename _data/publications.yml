@@ -2,33 +2,33 @@ main:
 
   - title: "A Comprehensive Estimator for the Fréchet Distribution: Asymptotical Efficiency, and Practical Applications"
     authors: <strong>Lee, S. K.</strong>, Hong, H. G., and Kim, H.-M.
-    conference: Journal of Korean Statistical Society, 2025
+    conference: Journal of Korean Statistical Society (2025)
     
   - title: "MLEce: Statistical Inference for Asymptotically Efficient Closed-form Estimators in R"
     authors: Zhao, J., Kim, Y.-K., Jang, Y.-H., Chang, J. H., <strong>Lee, S. K.</strong>, and Kim, H.-M.
-    conference: SoftwareX, 2024
+    conference: SoftwareX (2024)
 
   - title: "An Asymptotically Efficient Closed-form Estimator for the Dirichlet Distribution"
     authors: Chang, J. H., <strong>Lee, S. K.</strong>, and Kim, H.-M. 
-    conference: Stat, 2023
+    conference: Stat (2023)
 
   - title: "Quantile Forward Regression for High-dimensional Survival Data"
     authors: Lee, E. R., Park, S., <strong>Lee, S. K.</strong>, and Hong, H. G.
-    conference: Lifetime Data Analysis, 2023
+    conference: Lifetime Data Analysis (2023)
 
   - title: "Two Tests Using More Assumptions but Lower Power"
     authors: <strong>Lee, S. K.</strong>, and Kim, H.-M. 
-    conference: Communications for Statistical Applications and Methods, 2023
+    conference: Communications for Statistical Applications and Methods (2023)
 
   - title: "Further Sharpening of Jensen's Inequality"
     authors: <strong>Lee, S. K.</strong>, Chang, J. H., and Kim, H.-M. 
-    conference: Statistics, 2021
+    conference: Statistics (2021)
     notes: Honorable Mention from Student Paper Competition for Korean Statistical Society Academic Conference 2019
 
   - title: "EMSS: New EM-type Algorithms for the Heckman Selection Model in R"
     authors: Yang, K., <strong>Lee, S. K.</strong>, Zhao, J., and Kim, H.-M.
-    conference: R Journal, 2021
+    conference: R Journal (2021)
 
   - title: "Some Counterexamples of a Skew-normal Distribution"
     authors: Zhao, J., <strong>Lee, S. K.</strong>, and Kim, H.-M.
-    conference: Communications for Statistical Applications and Methods, 2019
+    conference: Communications for Statistical Applications and Methods (2019)
