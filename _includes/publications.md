@@ -57,7 +57,7 @@
 </ol>
 </div>
 
-### Published
+### Published Papers
 
 <div class="publications">
 <ol class="bibliography">
