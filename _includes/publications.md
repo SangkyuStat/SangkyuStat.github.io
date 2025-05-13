@@ -1,6 +1,6 @@
 <br>
 
-### Publications
+## Publications
 
 <p style="margin:4px 0 18px;font-size:15px;">
 [<a href="https://scholar.google.com/citations?user=E4S3q1gAAAAJ&hl=en"
@@ -9,7 +9,7 @@
 
 \* denotes equal contribution
 
-#### Preprints
+### Preprints/Submitted Papers
 
 <div class="publications">
 <ol class="bibliography">
@@ -57,7 +57,7 @@
 </ol>
 </div>
 
-#### Published
+### Published
 
 <div class="publications">
 <ol class="bibliography">
