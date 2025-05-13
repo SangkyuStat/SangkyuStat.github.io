@@ -5,13 +5,8 @@
 ### Journal Reviewers
 
 - [Annals of Statistics](https://imstat.org/journals-and-publications/annals-of-statistics/)
-- Biostatistics
-- BMC Medical Research Methodology
-- Scientific Reports
-- Stat
-- Statistical Methods in Medical Research
-
-<ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
-</ul>
+- [Biostatistics](https://academic.oup.com/biostatistics)
+- [BMC Medical Research Methodology](https://bmcmedresmethodol.biomedcentral.com/)
+- [Scientific Reports](https://www.nature.com/srep/)
+- [Stat](https://onlinelibrary.wiley.com/journal/20491573)
+- [Statistical Methods in Medical Research](https://journals.sagepub.com/home/smm)
