@@ -1,5 +1,9 @@
 main:
 
+  - title: "False Discovery Rate Control for Regional Quantile Regression for Ultra-high Dimensional Data"
+    authors: <strong>Lee, S. K.</strong>, Zhang, T., Hong, H. G., and Weng, H.
+    conference: submitted, 2025.
+
   - title: "High-dimensional Partial Linear Model with Trend filtering"
     authors: <strong>Lee, S. K.</strong>, Loftfield, E., Hong, H. G., and Weng, H.
     conference: arXiv, 2024.
@@ -14,7 +18,3 @@ main:
     conference: arXiv, 2024.
     pdf: https://arxiv.org/pdf/2404.11675.pdf
     notes: Winner of the ASA Statistics in Epidemiology Section Paper Competition in JSM 2024
-
-  - title: "False Discovery Rate Control for Regional Quantile Regression for Ultra-high Dimensional Data"
-    authors: <strong>Lee, S. K.</strong>, Zhang, T., Hong, H. G., and Weng, H.
-    conference: submitted, 2025.
