@@ -9,7 +9,7 @@ main:
     conference: SoftwareX, 2024
 
   - title: "An Asymptotically Efficient Closed-form Estimator for the Dirichlet Distribution"
-    authors: <strong>Lee, S. K.</strong>, Chang, J. H., and Kim, H.-M. 
+    authors: Chang, J. H., <strong>Lee, S. K.</strong>, and Kim, H.-M. 
     conference: Stat, 2023
 
   - title: "Quantile Forward Regression for High-dimensional Survival Data"
