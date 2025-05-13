@@ -3,11 +3,11 @@
 ### Publications
 
 <p style="margin:4px 0 18px;font-size:15px;">
-<a href="https://scholar.google.com/citations?user=E4S3q1gAAAAJ&hl=en"
-  target="_blank" rel="noopener">Google&nbsp;Scholar</a>
+[<a href="https://scholar.google.com/citations?user=E4S3q1gAAAAJ&hl=en"
+  target="_blank" rel="noopener">Google&nbsp;Scholar</a>]
 </p>
 
-* denotes equal contribution
+</em>* denotes equal contribution
 
 #### Preprints
 
