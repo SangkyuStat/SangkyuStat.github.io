@@ -15,7 +15,7 @@ I earned my Ph.D. in Statistics at [Michigan State University](https://stt.natsc
 - Non/Semiparametric Statistics
 - Machine Learning
 - Health Disparity Analysis
-- Statistical Softwares
+- Statistical Software
 
 ## News
 
