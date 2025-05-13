@@ -23,6 +23,7 @@ github_link: https://github.com/SangkyuStat
 avatar: /assets/img/portrait_crop.png
 favicon: /assets/img/portrait_crop.png
 favicon_dark: /assets/img/portrait_crop.png
+affiliation_logo: ""
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
