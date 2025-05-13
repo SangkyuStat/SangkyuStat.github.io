@@ -2,19 +2,19 @@ main:
 
   - title: "False Discovery Rate Control for Regional Quantile Regression for Ultra-high Dimensional Data"
     authors: <strong>Lee, S. K.</strong>, Zhang, T., Hong, H. G., and Weng, H.
-    conference: submitted, 2025.
+    conference: submitted, 2025+
 
   - title: "High-dimensional Partial Linear Model with Trend filtering"
     authors: <strong>Lee, S. K.</strong>, Loftfield, E., Hong, H. G., and Weng, H.
-    conference: arXiv, 2024.
+    conference: arXiv, 2024+
     pdf: https://arxiv.org/pdf/2410.20319.pdf
 
   - title: "Causal Decomposition Framework for Quantifying Intervenable Cancer Health Disparities: A Mediation Approach Using Random Survival Forests"
     authors: <strong>Lee, S. K.*</strong>, Xia, F.*, Kim, S., Blum, K., Hong, H. G., Canchola, A. J., Shariff-Marco, S., Gomez, S. L. and Kim, M.-O.
-    conference: submitted, 2024.
+    conference: submitted, 2024+
 
   - title: "Decomposition of Longitudinal Disparities: an Application to the Fetal Growth-Singletons Study"
     authors: <strong>Lee, S. K.</strong>, Kim, S., Kim, M.-O., Grantz, K. L., and Hong, H. G. 
-    conference: arXiv, 2024.
+    conference: arXiv, 2024+
     pdf: https://arxiv.org/pdf/2404.11675.pdf
     notes: Winner of the ASA Statistics in Epidemiology Section Paper Competition in JSM 2024
