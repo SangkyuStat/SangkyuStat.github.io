@@ -4,9 +4,9 @@ layout: homepage
 
 <br> <br>
 
-I am a Postdoctoral fellow in the Biostatistics Branch of the Division of Cancer Epidemiology and Genetics (DCEG) at the National Cancer Institute (NCI), National Institutes of Health (NIH). I am broadly interested in various statistical topics, from statistical theories to applications and programming.
+I am a Postdoctoral Fellow in the Biostatistics Branch, Division of Cancer Epidemiology and Genetics (DCEG), at the National Cancer Institute (NCI), National Institutes of Health (NIH). My research interests span the full breadth of statistical science, from theories to applied methodologies and programming.
 
-I completed my Ph.D. in Statistics from Michigan State University (MSU), advised by Drs. Haolei Weng and Hyokyoung (Grace) Hong. Prior to MSU, I completed my B.A. and M.A. in Statistics from Konkuk University, South Korea.
+I earned my Ph.D. in Statistics at Michigan State University, where I was co-advised by Dr. Haolei Weng and Dr. Hyokyoung (Grace) Hong. Earlier, I completed both my B.A. and M.A. in Statistics at Konkuk University in South Korea, where I was advised by Dr. Hyoung-Moon Kim.
 
 ## Research Interests
 
