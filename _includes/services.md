@@ -4,7 +4,7 @@
 
 ### Journal Reviewers
 
-- Annals of Statistics
+- [Annals of Statistics](https://imstat.org/journals-and-publications/annals-of-statistics/)
 - Biostatistics
 - BMC Medical Research Methodology
 - Scientific Reports
