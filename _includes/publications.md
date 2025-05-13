@@ -1,16 +1,14 @@
 <h3 style="margin: 60px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=Qi2PSmEAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/12/10033-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h3>
 
-#### Published
+#### Preprints
 
 <div class="publications">
 <ol class="bibliography">
-
-{% for link in site.data.publications.main %}
+  
+{% for link in site.data.preprints.main %}
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-12" style="position:relative;padding-right:15px;padding-left:15px;">
-  <abbr class="badge">{{ link.conference_short }}</abbr>
+<div class="col-sm-12" style="position:relative;padding-right:15px;padding-left:15px;">
   <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
   <div class="author">{{ link.authors }}</div>
   <div class="periodical"><em>{{ link.conference }}</em>
@@ -49,16 +47,16 @@
 </ol>
 </div>
 
-#### Preprints
+#### Published
 
 <div class="publications">
 <ol class="bibliography">
-  
-{% for link in site.data.preprint.main %}
+
+{% for link in site.data.publications.main %}
 
 <li>
-<div class="col-sm-12" style="position:relative;padding-right:15px;padding-left:15px;">
-  <abbr class="badge">{{ link.conference_short }}</abbr>
+<div class="pub-row">
+  <div class="col-sm-12" style="position:relative;padding-right:15px;padding-left:15px;">
   <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
   <div class="author">{{ link.authors }}</div>
   <div class="periodical"><em>{{ link.conference }}</em>
