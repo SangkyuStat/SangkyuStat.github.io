@@ -13,7 +13,7 @@ main:
     authors: <strong>Lee, S. K.</strong>, Kim, S., Kim, M.-O., Grantz, K. L., and Hong, H. G. 
     conference: arXiv, 2024.
     pdf: https://arxiv.org/pdf/2404.11675.pdf
-    note: Winner of the ASA Statistics in Epidemiology Section Paper Competition in JSM 2024
+    notes: Winner of the ASA Statistics in Epidemiology Section Paper Competition in JSM 2024
 
   - title: False Discovery rate control for regional quantile regression for ultra-high dimensional data
     authors: <strong>Lee, S. K.</strong>, Zhang, T., Hong, H. G., and Weng, H.
