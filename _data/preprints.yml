@@ -8,6 +8,7 @@ main:
     authors: <strong>Lee, S. K.</strong>, Loftfield, E., Hong, H. G., and Weng, H.
     conference: arXiv, 2024+
     pdf: https://arxiv.org/pdf/2410.20319.pdf
+    paper: https://arxiv.org/pdf/2410.20319
 
   - title: "Causal Decomposition Framework for Quantifying Intervenable Cancer Health Disparities: A Mediation Approach Using Random Survival Forests"
     authors: <strong>Lee, S. K.*</strong>, Xia, F.*, Kim, S., Blum, K., Hong, H. G., Canchola, A. J., Shariff-Marco, S., Gomez, S. L. and Kim, M.-O.
@@ -17,4 +18,5 @@ main:
     authors: <strong>Lee, S. K.</strong>, Kim, S., Kim, M.-O., Grantz, K. L., and Hong, H. G. 
     conference: arXiv, 2024+
     pdf: https://arxiv.org/pdf/2404.11675.pdf
+    paper: https://arxiv.org/pdf/2404.11675
     notes: Winner of the ASA Statistics in Epidemiology Section Junior Researcher/Student Paper Competition in JSM 2024
