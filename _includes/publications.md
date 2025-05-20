@@ -186,7 +186,7 @@
 </ol>
 </div>
 
-### Statistical Software
+## Statistical Software
 
 <div class="publications">
 <ol class="bibliography">
