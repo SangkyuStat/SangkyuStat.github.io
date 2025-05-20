@@ -52,7 +52,7 @@
 </div>
 </li>
 
-<span style="display:block; height:12px;"></span>
+<span style="display:block; height:16px;"></span>
 
 {% endfor %}
 
@@ -102,7 +102,7 @@
 </div>
 </li>
 
-<br>
+<span style="display:block; height:16px;"></span>
 
 {% endfor %}
 
@@ -152,7 +152,7 @@
 </div>
 </li>
 
-<br>
+<span style="display:block; height:16px;"></span>
 
 {% endfor %}
 
