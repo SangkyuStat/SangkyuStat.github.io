@@ -52,7 +52,7 @@
 </div>
 </li>
 
-<span style="display:block; height:4px;"></span>
+<span style="display:block; height:3px;"></span>
 
 {% endfor %}
 
