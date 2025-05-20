@@ -1,26 +1,32 @@
 main:
 
   - title: "rechetAEE"
+    role: Maintainer 
     authors: Maintainer 
     conference: GitHub
     
   - title: "plmR"
+    role: Maintainer 
     authors: Maintainer 
     conference: GitHub
     
   - title: "vcPB"
+    role: Maintainer 
     authors: Maintainer 
     conference: CRAN
     
   - title: "MLEce"
+    role: Author 
     authors: Author 
     conference: CRAN
 
   - title: "EMSS"
+    role: Maintainer 
     authors: Maintainer 
     conference: CRAN
     
   - title: "DiSSMod"
+    role: Maintainer 
     authors: Maintainer 
     conference: CRAN
 
