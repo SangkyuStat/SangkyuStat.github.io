@@ -1,0 +1,26 @@
+main:
+
+  - title: "rechetAEE"
+    authors: Maintainer 
+    conference: GitHub
+    
+  - title: "plmR"
+    authors: Maintainer 
+    conference: GitHub
+    
+  - title: "vcPB"
+    authors: Maintainer 
+    conference: CRAN
+    
+  - title: "MLEce"
+    authors: Author 
+    conference: CRAN
+
+  - title: "EMSS"
+    authors: Maintainer 
+    conference: CRAN
+    
+  - title: "DiSSMod"
+    authors: Maintainer 
+    conference: CRAN
+
