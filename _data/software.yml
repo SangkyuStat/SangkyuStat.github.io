@@ -1,32 +1,34 @@
 main:
 
-  - title: "rechetAEE"
+  - title: "frechetAEE"
     role: Maintainer 
     explanations: An R package for an asymptotically efficient estimator for Fr\`{e}chet distribution 
-    conference: GitHub
+    github: https://github.com/SangkyuStat/frechetAEE
     
   - title: "plmR"
     role: Maintainer 
     explanations: An R package for estimating and fitting various high-dimensional partial linear models 
-    conference: GitHub
+    github: https://github.com/SangkyuStat/plmR
     
   - title: "vcPB"
     role: Maintainer 
     explanations: An R package for estimating the disparity between a majority group and minority group based on the extended model of the Peters-Belson method 
-    conference: CRAN
+    CRAN: https://cran.r-project.org/web/packages/vcPB/index.html
+    github: https://github.com/SangkyuStat/vcPB
     
   - title: "MLEce"
     role: Author 
     explanations: An R package for estimating asymptotically efficient closed-form estimators and providing the goodness of fit, estimates, plots and etc 
-    conference: CRAN
+    CRAN: https://cran.r-project.org/web/packages/MLEce/index.html
 
   - title: "EMSS"
     role: Maintainer 
     explanations: An R package for fitting some new EM-Type estimation methods for the Heckman selection model 
-    conference: CRAN
+    CRAN: https://cran.r-project.org/web/packages/EMSS/index.html
+    github: https://github.com/SangkyuStat/EMSS
     
   - title: "DiSSMod"
     role: Maintainer 
     explanations: An R package for fitting sample selection models for discrete response variables 
-    conference: CRAN
+    CRAN: https://cran.r-project.org/web/packages/DiSSMod/index.html
 
