@@ -2,7 +2,7 @@ main:
 
   - title: "frechetAEE"
     role: Maintainer 
-    explanations: An R package for an asymptotically efficient estimator for Fr\`{e}chet distribution 
+    explanations: An R package for an asymptotically efficient estimator for the Frechet distribution 
     github: https://github.com/SangkyuStat/frechetAEE
     
   - title: "plmR"
@@ -12,7 +12,7 @@ main:
     
   - title: "vcPB"
     role: Maintainer 
-    explanations: An R package for estimating the disparity between a majority group and minority group based on the extended model of the Peters-Belson method 
+    explanations: An R package for estimating the disparity between a majority group and a minority group based on the extended model of the Peters-Belson method 
     CRAN: https://cran.r-project.org/web/packages/vcPB/index.html
     github: https://github.com/SangkyuStat/vcPB
     
@@ -31,4 +31,5 @@ main:
     role: Maintainer 
     explanations: An R package for fitting sample selection models for discrete response variables 
     CRAN: https://cran.r-project.org/web/packages/DiSSMod/index.html
+    shiny: https://sang-kyu-lee.shinyapps.io/dissmod/
 
