@@ -19,7 +19,7 @@
 <div class="auth-notes">
   * denotes equal contribution<br>
   &dagger; denotes corresponding author<br>
-  &Dagger; denotes students whom I advised
+  &Dagger; denotes students whom I advised/co-advised
 </div>
 
 ### Preprints/Submitted Papers
