@@ -7,9 +7,9 @@
   target="_blank" rel="noopener">Google&nbsp;Scholar</a>]
 </p>
 
-\* denotes equal contribution
-&dagger; denotes corresponding author
-&Dagger; denotes student that I advised
+<div> \* denotes equal contribution <\div>
+<div> &dagger; denotes corresponding author <\div>
+<div> &Dagger; denotes student that I advised <\div>
 
 ### Preprints/Submitted Papers
 
