@@ -7,10 +7,19 @@
   target="_blank" rel="noopener">Google&nbsp;Scholar</a>]
 </p>
 
-<div> * denotes equal contribution </div>
-<div> &dagger; denotes corresponding author </div>
-<div> &Dagger; denotes student that I advised </div>
-<br>
+<style>
+  .auth-notes{
+    font-size:0.75em;   /* smaller text */
+    line-height:1.1;    /* tighter line spacing */
+    margin:0;           /* kill default <div> margin */
+  }
+</style>
+
+<div class="auth-notes">
+  * denotes equal contribution<br>
+  † denotes corresponding author<br>
+  ‡ denotes student that I advised
+</div>
 
 ### Preprints/Submitted Papers
 
