@@ -12,13 +12,14 @@
     font-size:0.8em;   
     line-height:1.3;    
     display:inline-block;
-    margin-bottom:0.6em;
+    margin-bottom:1em;
   }
 </style>
 
 <div class="auth-notes">
-  * denotes equal contribution; † denotes corresponding author<br>
-  ‡ denotes students that I advised
+  * denotes equal contribution; 
+  &dagger; denotes corresponding author<br>
+  &Dagger; denotes students whom I advised
 </div>
 
 ### Preprints/Submitted Papers
