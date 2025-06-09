@@ -12,7 +12,7 @@
     font-size:0.8em;   
     line-height:1.3;    
     display:inline-block;
-    margin-bottom:1em;
+    margin-bottom:2em;
   }
 </style>
 
