@@ -9,16 +9,16 @@
 
 <style>
   .auth-notes{
-    font-size:0.75em;   /* smaller text */
-    line-height:1.1;    /* tighter line spacing */
-    margin:0;           /* kill default <div> margin */
+    font-size:0.8em;   
+    line-height:1.3;    
+    display:inline-block;
+    margin-bottom:0.6em;
   }
 </style>
 
 <div class="auth-notes">
-  * denotes equal contribution<br>
-  † denotes corresponding author<br>
-  ‡ denotes student that I advised
+  * denotes equal contribution; † denotes corresponding author<br>
+  ‡ denotes students that I advised
 </div>
 
 ### Preprints/Submitted Papers
