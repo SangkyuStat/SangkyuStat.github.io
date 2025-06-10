@@ -1,11 +1,11 @@
 main:
 
   - title: "False Discovery Rate Control for Regional Quantile Regression for Ultra-high Dimensional Data"
-    authors: <strong>Lee, S. K.</strong>, Zhang, T., Hong, H. G., and Weng, H.
+    authors: <strong>Lee, S. K.</strong>, Zhang, T., Hong, H. G.<sup>&dagger;</sup>, and Weng, H.<sup>&dagger;</sup>
     conference: submitted (2025+)
 
   - title: "High-dimensional Partial Linear Model with Trend Filtering"
-    authors: <strong>Lee, S. K.</strong>, Loftfield, E., Hong, H. G., and Weng, H.
+    authors: <strong>Lee, S. K.</strong>, Loftfield, E., Hong, H. G.<sup>&dagger;</sup>, and Weng, H.<sup>&dagger;</sup>
     conference: arXiv (2024+)
     pdf: https://arxiv.org/pdf/2410.20319.pdf
     paper: https://arxiv.org/abs/2410.20319
