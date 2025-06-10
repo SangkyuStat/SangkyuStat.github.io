@@ -3,32 +3,40 @@ main:
   - title: "A Comprehensive Estimator for the Fréchet Distribution: Asymptotical Efficiency, and Practical Applications"
     authors: <strong>Lee, S. K.</strong>, Hong, H. G., and Kim, H.-M.
     conference: Journal of Korean Statistical Society (2025)
+    paper: https://link.springer.com/article/10.1007/s42952-025-00320-8
     
   - title: "MLEce: Statistical Inference for Asymptotically Efficient Closed-form Estimators in R"
     authors: Zhao, J., Kim, Y.-K., Jang, Y.-H., Chang, J. H., <strong>Lee, S. K.</strong>, and Kim, H.-M.
     conference: SoftwareX (2024)
+    paper: https://www.sciencedirect.com/science/article/pii/S2352711024000268
 
   - title: "An Asymptotically Efficient Closed-form Estimator for the Dirichlet Distribution"
     authors: Chang, J. H., <strong>Lee, S. K.</strong>, and Kim, H.-M. 
     conference: Stat (2023)
+    paper: https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.640
 
   - title: "Quantile Forward Regression for High-dimensional Survival Data"
     authors: Lee, E. R., Park, S., <strong>Lee, S. K.</strong>, and Hong, H. G.
     conference: Lifetime Data Analysis (2023)
+    paper: https://link.springer.com/article/10.1007/s10985-023-09603-w
 
   - title: "Two Tests Using More Assumptions but Lower Power"
     authors: <strong>Lee, S. K.</strong>, and Kim, H.-M. 
     conference: Communications for Statistical Applications and Methods (2023)
+    paper: http://www.csam.or.kr/journal/view.html?doi=10.29220/CSAM.2023.30.1.109
 
   - title: "Further Sharpening of Jensen's Inequality"
     authors: <strong>Lee, S. K.</strong>, Chang, J. H., and Kim, H.-M. 
     conference: Statistics (2021)
+    paper: https://www.tandfonline.com/doi/full/10.1080/02331888.2021.1998052
     notes: Honorable Mention from Student Paper Competition for Korean Statistical Society Academic Conference 2019
 
   - title: "EMSS: New EM-type Algorithms for the Heckman Selection Model in R"
     authors: Yang, K., <strong>Lee, S. K.</strong>, Zhao, J., and Kim, H.-M.
+    paper: https://journal.r-project.org/articles/RJ-2021-098/
     conference: R Journal (2021)
 
   - title: "Some Counterexamples of a Skew-normal Distribution"
     authors: Zhao, J., <strong>Lee, S. K.</strong>, and Kim, H.-M.
     conference: Communications for Statistical Applications and Methods (2019)
+    paper: http://www.csam.or.kr/journal/view.html?doi=10.29220/CSAM.2019.26.6.583
