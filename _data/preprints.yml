@@ -11,11 +11,11 @@ main:
     paper: https://arxiv.org/abs/2410.20319
 
   - title: "Causal Decomposition Framework for Quantifying Intervenable Cancer Health Disparities: A Mediation Approach Using Random Survival Forests"
-    authors: <strong>Lee, S. K.*</strong>, Xia, F.*, Kim, S., Blum, K., Hong, H. G., Canchola, A. J., Shariff-Marco, S., Gomez, S. L. and Kim, M.-O.
+    authors: Xia, F.*, <strong>Lee, S. K.*</strong>, Kim, S., Blum, K., Hong, H. G., Canchola, A. J., Shariff-Marco, S., Gomez, S. L. and Kim, M.-O.<sup>&dagger;</sup>
     conference: submitted (2024+)
 
   - title: "Decomposition of Longitudinal Disparities: an Application to the Fetal Growth-Singletons Study"
-    authors: <strong>Lee, S. K.</strong>, Kim, S., Kim, M.-O., Grantz, K. L., and Hong, H. G. 
+    authors: <strong>Lee, S. K.</strong>, Kim, S., Kim, M.-O., Grantz, K. L., and Hong, H. G.<sup>&dagger;</sup> 
     conference: arXiv (2024+)
     pdf: https://arxiv.org/pdf/2404.11675.pdf
     paper: https://arxiv.org/abs/2404.11675
