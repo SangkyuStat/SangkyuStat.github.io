@@ -32,7 +32,7 @@ main:
     notes: Honorable Mention from Student Paper Competition for Korean Statistical Society Academic Conference 2019
 
   - title: "EMSS: New EM-type Algorithms for the Heckman Selection Model in R"
-    authors: Yang, K.<sup>&Dagger;</sup>, <strong>Lee, S. K.</strong>, Zhao, J., and Kim, H.-M.<sup>&dagger;</sup>
+    authors: <u>Yang, K.</u>, <strong>Lee, S. K.</strong>, Zhao, J., and Kim, H.-M.<sup>&dagger;</sup>
     paper: https://journal.r-project.org/articles/RJ-2021-098/
     conference: R Journal (2021)
 
