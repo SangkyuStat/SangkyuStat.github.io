@@ -1,5 +1,10 @@
 main:
 
+  - title: "RQRscreen"
+    role: Maintainer 
+    explanations: An R function for a regional quantile regression model to screening features with ultrahigh-dimensional data 
+    github: https://github.com/SangkyuStat/RQRscreen
+    
   - title: "frechetAEE"
     role: Maintainer 
     explanations: An R package for an asymptotically efficient estimator for the Frechet distribution 
