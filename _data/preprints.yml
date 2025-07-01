@@ -1,6 +1,6 @@
 main:
 
-  - title: "False Discovery Rate Control for Regional Quantile Regression for Ultra-high Dimensional Data"
+  - title: "StaRQR-K: Discovering Regulatory Switches in Cancer Epigenomes via False Discovery Rate Controlled Regional Quantile Regression"
     authors: <strong>Lee, S. K.</strong>, Zhang, T., Hong, H. G.<sup>&dagger;</sup>, and Weng, H.<sup>&dagger;</sup>
     conference: submitted (2025+)
 
