@@ -9,7 +9,7 @@ main:
     conference: arXiv (2024+)
     paper: https://arxiv.org/abs/2410.20319
 
-  - title: "Causal Decomposition Framework for Quantifying Intervenable Cancer Health Disparities: A Mediation Approach Using Random Survival Forests"
+  - title: "Causal Decomposition Framework for Quantifying Intervenable Cancer Health Disparities"
     authors: Xia, F.*, <strong>Lee, S. K.*</strong>, Kim, S., Blum, K., Hong, H. G., Canchola, A. J., Shariff-Marco, S., Gomez, S. L. and Kim, M.-O.<sup>&dagger;</sup>
     conference: submitted (2024+)
 
