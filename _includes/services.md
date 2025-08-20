@@ -8,6 +8,7 @@
 - [Biostatistics](https://academic.oup.com/biostatistics)
 - [BMC Medical Research Methodology](https://bmcmedresmethodol.biomedcentral.com/)
 - [Journal of Applied Statistics](https://www.tandfonline.com/journals/cjas20)
+- [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/journals/ucgs20)
 - [Scientific Reports](https://www.nature.com/srep/)
 - [Stat](https://onlinelibrary.wiley.com/journal/20491573)
 - [Statistical Methods in Medical Research](https://journals.sagepub.com/home/smm)
