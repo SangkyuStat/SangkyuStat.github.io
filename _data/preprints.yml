@@ -1,5 +1,9 @@
 main:
 
+  - title: "Comparative Analysis of Southern Blot and qPCR Telomere Length Measurements through Comprehensive Statistical Approaches"
+    authors: Mendez, K. J. W.*, <strong>Lee, S. K.*</strong>, Dagnall, C., Lai, T.-P., Katki, H., Spellman, S. R., Stewart, V., Aviv, A., Gadalla, S. M.<sup>&dagger;</sup>, and Hong, H. G.<sup>&dagger;</sup> 
+    conference: submitted (2025+)
+    
   - title: "StaRQR-K: Discovering Activating Switches in Cancer Epigenomes via False Discovery Rate Controlled Regional Quantile Regression"
     authors: <strong>Lee, S. K.</strong>, Zhang, T., Hong, H. G.<sup>&dagger;</sup>, and Weng, H.<sup>&dagger;</sup>
     conference: submitted (2025+)
