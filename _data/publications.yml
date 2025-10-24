@@ -1,5 +1,11 @@
 main:
 
+  - title: "Decomposition of Longitudinal Disparities: an Application to the Fetal Growth-Singletons Study"
+    authors: <strong>Lee, S. K.</strong>, Kim, S., Kim, M.-O., Grantz, K. L., and Hong, H. G.<sup>&dagger;</sup> 
+    conference: Biostatistics (2025)
+    paper: https://arxiv.org/abs/2404.11675
+    notes: Winner of the ASA Statistics in Epidemiology Section Junior Researcher/Student Paper Competition in Joint Statistical Meeting (JSM) 2024
+
   - title: "A Comprehensive Estimator for the Fréchet Distribution: Asymptotical Efficiency, and Practical Applications"
     authors: <strong>Lee, S. K.</strong>, Hong, H. G., and Kim, H.-M.<sup>&dagger;</sup>
     conference: Journal of Korean Statistical Society (2025)
