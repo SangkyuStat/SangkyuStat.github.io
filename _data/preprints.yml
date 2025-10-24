@@ -16,9 +16,3 @@ main:
   - title: "Causal Decomposition Framework for Quantifying Intervenable Cancer Health Disparities"
     authors: Xia, F.*, <strong>Lee, S. K.*</strong>, Kim, S., Blum, K., Hong, H. G., Canchola, A. J. and Kim, M.-O.<sup>&dagger;</sup>
     conference: submitted (2025+)
-
-  - title: "Decomposition of Longitudinal Disparities: an Application to the Fetal Growth-Singletons Study"
-    authors: <strong>Lee, S. K.</strong>, Kim, S., Kim, M.-O., Grantz, K. L., and Hong, H. G.<sup>&dagger;</sup> 
-    conference: arXiv (2024+)
-    paper: https://arxiv.org/abs/2404.11675
-    notes: Winner of the ASA Statistics in Epidemiology Section Junior Researcher/Student Paper Competition in Joint Statistical Meeting (JSM) 2024
