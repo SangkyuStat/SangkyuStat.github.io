@@ -19,6 +19,7 @@ I earned my Ph.D. in Statistics at [Michigan State University](https://stt.natsc
 
 ## News
 
+- **[Oct. 2025]** Our paper, *ecomposition of Longitudinal Disparities: an Application to the Fetal Growth-Singletons Study*, is accepted to **Biostatistics**.
 - **[Jun. 2025]** In Sep 2025, I will join the *Department of Applied Statistics, Konkuk University, South Korea*, as an Assistant Professor (will be on leave for 6 months).
-- **[Mar. 2025]** Our paper, *A comprehensive estimator for the Fréchet distribution: asymptotical efficiency and practical applications to health studies*, is accepted to JKSS.
+- **[Mar. 2025]** Our paper, *A comprehensive estimator for the Fréchet distribution: asymptotical efficiency and practical applications to health studies*, is accepted to **JKSS**.
 - **[Aug. 2024]** I won the **Early Career Award** from the ASA Statistics in Epidemiology Section Junior Researcher/Student Paper Competition in JSM 2024.
