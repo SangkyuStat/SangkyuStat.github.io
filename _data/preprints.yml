@@ -6,7 +6,8 @@ main:
     
   - title: "StaRQR-K: False Discovery Rate Controlled Regional Quantile Regression"
     authors: <strong>Lee, S. K.</strong>, Zhang, T., Hong, H. G.<sup>&dagger;</sup>, and Weng, H.<sup>&dagger;</sup>
-    conference: submitted (2025+)
+    conference: arXiv (2025+)
+    paper: https://arxiv.org/abs/2511.21562
 
   - title: "High-dimensional Partial Linear Model with Trend Filtering"
     authors: <strong>Lee, S. K.</strong>, Loftfield, E., Hong, H. G.*, and Weng, H.*<sup>&dagger;</sup>
