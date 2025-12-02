@@ -17,7 +17,7 @@
 </style>
 
 <div class="auth-notes">
-  * denotes equal contribution; &dagger; denotes corresponding author<br>
+  * denotes equal contribution; &#9993; denotes corresponding author<br>
   <u>underline</u> denotes students whom I advised/co-advised
 </div>
 
