@@ -6,5 +6,5 @@
 
 #### Spring 2026
 
-- Introduction to Probability (Undergraduate)
-- Analytical Programming 1 (Undergraduate)
+- Introduction to Probability (Undergraduate, in English)
+- Analytical Programming 1 (Undergraduate, in English)
