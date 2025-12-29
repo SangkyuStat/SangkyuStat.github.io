@@ -4,7 +4,7 @@ layout: homepage
 
 <br>
 
-## Biography
+## About Me
 
 I am an assistant professor in the [Department of Applied Statistics](https://www.konkuk.ac.kr/en/14602/subview.do) at [Konkuk University](https://www.konkuk.ac.kr/sites/en/index.do), Seoul, South Korea. My research interests span the full breadth of statistical science, from theories and methodologies to applications and programming.
 
