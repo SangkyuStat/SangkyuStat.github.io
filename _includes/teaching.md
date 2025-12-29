@@ -4,7 +4,7 @@
 
 ### Konkuk University
 
-#### Spring 2026
+#### In English
 
-- Introduction to Probability (Undergraduate, in English)
-- Analytical Programming 1 (Undergraduate, in English)
+- Introduction to Probability (Undergraduate / Spring 2026)
+- Analytical Programming 1 (Undergraduate / Spring 2026)
