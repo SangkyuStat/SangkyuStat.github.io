@@ -12,7 +12,7 @@ Prior to Konkuk University, I was a Pre/Postdoctoral Fellow in the [Biostatistic
 
 <div style="background-color: #f9f9f9; border: 1px solid #b0b0b0; border-radius: 5px; padding: 10px; margin: 20px 0;">
 <p style="color: #db5b44; margin: 0;">
-I am actively looking for graduate students who want to work with me. Please feel free to reach out to me if you are interested.
+I am actively looking for students who want to work with me. Please feel free to reach out to me if you are interested.
 </p>
 </div>
 
