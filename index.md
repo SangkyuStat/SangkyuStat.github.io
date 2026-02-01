@@ -10,9 +10,11 @@ I am an assistant professor in the [Department of Applied Statistics](https://ww
 
 Prior to Konkuk University, I was a Pre/Postdoctoral Fellow in the [Biostatistics Branch, Division of Cancer Epidemiology and Genetics (DCEG)](https://dceg.cancer.gov/about/organization/tdrp/bb), at the [National Cancer Institute (NCI), National Institutes of Health (NIH)](https://www.cancer.gov/). I earned my Ph.D. in Statistics at [Michigan State University](https://stt.natsci.msu.edu/), where I was co-advised by [Dr. Haolei Weng](https://haoleiweng.github.io/) and [Dr. Hyokyoung (Grace) Hong](https://dceg.cancer.gov/about/staff-directory/hong-grace). Earlier, I completed both my B.A. and M.A. in Statistics at [Konkuk University](https://en.konkuk.ac.kr/en/index.do) in South Korea, where I was advised by [Dr. Hyoung-Moon Kim](https://sites.google.com/view/hyoungbang/home?authuser=0).
 
-```
-I am looking for graduate students who want to work with me. Please feel free to reach out to me if you are interested.
-```
+<div style="border: 1px solid #c0392b; border-radius: 5px; padding: 15px; margin: 20px 0; color: #c0392b;" markdown="1">
+
+**Recruiting:** I am actively looking for graduate students who want to work with me. Please feel free to reach out to me if you are interested.
+
+</div>
 
 ## Research Interests
 
