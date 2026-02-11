@@ -6,7 +6,7 @@ layout: homepage
 
 ## About Me
 
-I am an assistant professor in the [Department of Applied Statistics](https://www.konkuk.ac.kr/en/14602/subview.do) at [Konkuk University](https://www.konkuk.ac.kr/sites/en/index.do), Seoul, South Korea. My research interests span the full breadth of statistical science, from theories and methodologies to applications and programming.
+I am an assistant professor(tenure-track) in the [Department of Applied Statistics](https://www.konkuk.ac.kr/en/14602/subview.do) at [Konkuk University](https://www.konkuk.ac.kr/sites/en/index.do), Seoul, South Korea. My research interests span the full breadth of statistical science, from theories and methodologies to applications and programming.
 
 Prior to Konkuk University, I was a Pre/Postdoctoral Fellow in the [Biostatistics Branch, Division of Cancer Epidemiology and Genetics (DCEG)](https://dceg.cancer.gov/about/organization/tdrp/bb), at the [National Cancer Institute (NCI), National Institutes of Health (NIH)](https://www.cancer.gov/). I earned my Ph.D. in Statistics at [Michigan State University](https://stt.natsci.msu.edu/), where I was co-advised by [Dr. Haolei Weng](https://haoleiweng.github.io/) and [Dr. Hyokyoung (Grace) Hong](https://dceg.cancer.gov/about/staff-directory/hong-grace). Earlier, I completed both my B.A. and M.A. in Statistics at [Konkuk University](https://en.konkuk.ac.kr/en/index.do) in South Korea, where I was advised by [Dr. Hyoung-Moon Kim](https://sites.google.com/view/hyoungbang/home?authuser=0).
 
