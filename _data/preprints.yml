@@ -1,5 +1,10 @@
 main:
 
+  - title: "A Causal Framework for Quantile Residual Lifetime"
+    authors: Hong, T., Bae, W., <strong>Lee, S. K.<sup>&#9993;</sup></strong>, Choi, D., and Jeong, J.-H.
+    conference: arXiv (2026+)
+    paper: https://arxiv.org/abs/2602.12682
+    
   - title: "StaRQR-K: False Discovery Rate Controlled Regional Quantile Regression"
     authors: <strong>Lee, S. K.</strong>, Zhang, T., Hong, H. G.*, and Weng, H.*<sup>&#9993;</sup>
     conference: arXiv (2025+)
