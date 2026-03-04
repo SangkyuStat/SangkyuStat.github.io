@@ -22,7 +22,7 @@ Prior to Konkuk University, I was a Pre/Postdoctoral Fellow in the [Biostatistic
 - High-dimensional Data Analysis
 - Non/Semiparametric Statistical Modelling
 - Machine Learning / Artificial Intelligence
-- Applied Statistics
+- Statistical Applications
 - Statistical Software
 
 ## News
