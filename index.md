@@ -21,8 +21,7 @@ Prior to Konkuk University, I was a Pre/Postdoctoral Fellow in the [Biostatistic
 - Quantile Regression
 - High-dimensional Data Analysis
 - Non/Semiparametric Statistical Modelling
-- Machine Learning
-- Health Disparity Analysis
+- Machine Learning / Artificial Intelligence
 - Statistical Software
 
 ## News
