@@ -27,7 +27,7 @@ Prior to Konkuk University, I was a Pre/Postdoctoral Fellow in the [Biostatistic
 
 ## News
 
-- **[Mar. 2026]** I am awarded the *Young Scientist Grant*, Basic Research in Science & Engineering (RS-2026-25494847) from the National Research Foundation of Korea (NRF). 
+- **[Mar. 2026]** I am awarded the *Young Scientist Grant*, Basic Research in Science & Engineering from the National Research Foundation of Korea (NRF). 
 - **[Oct. 2025]** Our paper, *Decomposition of Longitudinal Disparities: an Application to the Fetal Growth-Singletons Study*, is accepted for publication in **Biostatistics**.
 - **[Jun. 2025]** In Sep 2025, I will join the *Department of Applied Statistics, Konkuk University, South Korea*, as an Assistant Professor (will be on leave for 6 months).
 - **[Mar. 2025]** Our paper, *A comprehensive estimator for the Fréchet distribution: asymptotical efficiency and practical applications to health studies*, is accepted for publication in **JKSS**.
