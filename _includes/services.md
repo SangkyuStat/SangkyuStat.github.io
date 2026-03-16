@@ -21,3 +21,7 @@
 - Graduate Student Representative
 - Colloquium Committee
 - Major Curriculum Committee
+
+#### Department of Applied Statistics, Konkuk University
+
+- Colloquium Committee Chair
