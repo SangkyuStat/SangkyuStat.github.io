@@ -1,5 +1,10 @@
 main:
 
+  - title: "High-dimensional Partial Linear Model with Trend Filtering"
+    authors: <strong>Lee, S. K.</strong>, Loftfield, E., Hong, H. G., and Weng, H.<sup>&#9993;</sup>
+    conference: Electronic Journal of Statistics (2026)
+    paper: https://arxiv.org/abs/2410.20319
+
   - title: "Decomposition of Longitudinal Disparities: an Application to the Fetal Growth-Singletons Study"
     authors: <strong>Lee, S. K.</strong>, Kim, S., Kim, M.-O., Grantz, K. L., and Hong, H. G.<sup>&#9993;</sup> 
     conference: Biostatistics (2025)
