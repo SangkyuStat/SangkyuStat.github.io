@@ -12,6 +12,7 @@
 - [Scientific Reports](https://www.nature.com/srep/)
 - [Stat](https://onlinelibrary.wiley.com/journal/20491573)
 - [Statistical Methods in Medical Research](https://journals.sagepub.com/home/smm)
+- [Statistics and Computing](https://link.springer.com/journal/11222)
 - [The New England Journal of Statistics in Data Science](https://journal.nestat.org/)
 
 ### Departmental Services
