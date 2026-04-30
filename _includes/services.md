@@ -13,6 +13,7 @@
 - [Stat](https://onlinelibrary.wiley.com/journal/20491573)
 - [Statistical Methods in Medical Research](https://journals.sagepub.com/home/smm)
 - [Statistics and Computing](https://link.springer.com/journal/11222)
+- [Statistics and Probability Letters](https://www.sciencedirect.com/journal/statistics-and-probability-letters)
 - [The New England Journal of Statistics in Data Science](https://journal.nestat.org/)
 
 ### Departmental Services
