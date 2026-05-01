@@ -3,7 +3,7 @@ main:
   - title: "Bayesian Nonparametric Causal Inference for Quantile Residual Life: An Application to Alzheimer’s Disease"
     authors: Bae, W., Hong, T., <strong>Lee, S. K.<sup>&#9993;</sup></strong>, Choi, D., and Jeong, J.-H.
     conference: arXiv (2026+)
-    paper: https://arxiv.org/abs/2602.12682
+    paper: https://arxiv.org/abs/2604.27198
   
   - title: "A Causal Framework for Quantile Residual Lifetime"
     authors: Hong, T., Bae, W., <strong>Lee, S. K.<sup>&#9993;</sup></strong>, Choi, D., and Jeong, J.-H.
