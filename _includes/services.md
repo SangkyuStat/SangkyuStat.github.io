@@ -4,17 +4,18 @@
 
 ### Journal Reviewers
 
-- [Annals of Statistics](https://imstat.org/journals-and-publications/annals-of-statistics/)
-- [Biostatistics](https://academic.oup.com/biostatistics)
-- [BMC Medical Research Methodology](https://bmcmedresmethodol.biomedcentral.com/)
-- [Journal of Applied Statistics](https://www.tandfonline.com/journals/cjas20)
-- [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/journals/ucgs20) 
-- [Scientific Reports](https://www.nature.com/srep/)
-- [Stat](https://onlinelibrary.wiley.com/journal/20491573)
-- [Statistical Methods in Medical Research](https://journals.sagepub.com/home/smm)
-- [Statistics and Computing](https://link.springer.com/journal/11222)
-- [Statistics and Probability Letters](https://www.sciencedirect.com/journal/statistics-and-probability-letters)
-- [The New England Journal of Statistics in Data Science](https://journal.nestat.org/)
+- Annals of Statistics
+- Annals of the Institute of Statistical Mathematics
+- Biostatistics
+- BMC Medical Research Methodology
+- Journal of Applied Statistics
+- Journal of Computational and Graphical Statistics
+- Scientific Reports
+- Stat
+- Statistical Methods in Medical Research
+- Statistics and Computing
+- Statistics and Probability Letters
+- The New England Journal of Statistics in Data Science
 
 ### Departmental Services
 
