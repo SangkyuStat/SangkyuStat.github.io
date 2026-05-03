@@ -1,6 +1,6 @@
 <br>
 
-## Team Members
+## Students
 
 ### Master students
 
