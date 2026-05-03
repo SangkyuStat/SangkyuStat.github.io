@@ -4,8 +4,8 @@ main:
     url: services/
     right: true 
     
-  - title: "Members"
-    url: members/
+  - title: "Students"
+    url: students/
     
   - title: "Teaching"
     url: teaching/
