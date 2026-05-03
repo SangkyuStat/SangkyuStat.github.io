@@ -2,6 +2,8 @@
 
 ## Students
 
+### Doctoral students
+
 ### Master students
 
 - Ariunaa Myagmarbat
