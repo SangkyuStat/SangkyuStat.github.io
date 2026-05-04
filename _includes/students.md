@@ -6,12 +6,12 @@
 
 ### Master students
 
-- Ariunaa Myagmarbat
+- Ariunaa Myagmarbat (Konkuk University)
 
 ### Undergraduate students
 
-- Jae Hwan Kim
-- Jeong Won An
-- Jiyoung Choi
+- Jae Hwan Kim (Konkuk University)
+- Jeong Won An (Konkuk University)
+- Jiyoung Choi (Konkuk University)
 
 ### Alumni
