@@ -13,5 +13,6 @@
 - Jae Hwan Kim (Konkuk University)
 - Jeong Won An (Konkuk University)
 - Jiyoung Choi (Konkuk University)
+- Yubin Kim (Konkuk University)
 
 ### Alumni
