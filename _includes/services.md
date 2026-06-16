@@ -2,7 +2,7 @@
 
 ## Services
 
-### Journal Reviewers
+### Journal Referee
 
 - Annals of Statistics
 - Annals of the Institute of Statistical Mathematics
