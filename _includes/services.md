@@ -6,6 +6,7 @@
 
 - Annals of Statistics
 - Annals of the Institute of Statistical Mathematics
+- Biometrics
 - Biostatistics
 - BMC Medical Research Methodology
 - Journal of Applied Statistics
