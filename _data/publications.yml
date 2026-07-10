@@ -1,5 +1,10 @@
 main:
 
+  - title: "Causal Decomposition Framework for Quantifying Intervenable Cancer Health Disparities"
+    authors: Xia, F.*, <strong>Lee, S. K.*</strong>, Kim, S., Blum, K., Hong, H. G., Canchola, A. J. and Kim, M.-O.<sup>&#9993;</sup>
+    conference: Biometrics (2026)
+    paper:
+    
   - title: "High-dimensional Partial Linear Model with Trend Filtering"
     authors: <strong>Lee, S. K.</strong>, Loftfield, E., Hong, H. G., and Weng, H.<sup>&#9993;</sup>
     conference: Electronic Journal of Statistics (2026)
