@@ -1,8 +1,8 @@
 main:
   - title: "pcmprsk"
     role: Author
-    explanations: An R function for a regional quantile regression model to screening features with ultrahigh-dimensional data 
-    github: https://github.com/SangkyuStat/RQRscreen
+    explanations: An R package for providing tools for fitting parametric regression models of the cumulative incidence function (CIF) in the presence of competing risks
+    github: https://github.com/jeongwonStat/pcmprsk
 
   - title: "StaRQRK"
     role: Maintainer 
