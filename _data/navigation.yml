@@ -4,8 +4,8 @@ main:
     url: services/
     right: true 
     
-  - title: "Students"
-    url: students/
+  - title: "Lab"
+    url: quirk/
     
   - title: "Teaching"
     url: teaching/
