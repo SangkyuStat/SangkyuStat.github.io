@@ -1,11 +1,11 @@
 main:
 
-  - title: "Services"
-    url: services/
-    right: true 
-    
   - title: "Lab"
     url: quirk/
+    right: true 
+    
+  - title: "Services"
+    url: services/
     
   - title: "Teaching"
     url: teaching/
